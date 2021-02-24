@@ -1,0 +1,1 @@
+.DoneList{display:flex;justify-content:space-around;padding:10px 0 10px 0}.DoneList .describe{flex:1;margin-left:20px}.DoneList .ctime,.DoneList .ptime{flex:1}.DoneList:nth-child(odd){background:#aaa}
